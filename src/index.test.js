@@ -21,5 +21,5 @@ test("Should multiply two numbers", () => {
 });
 // Test Case 4 (Division)
 test("Should divide two numbers", () => {
-  expect(divide(25, 10)).toBe(2);
+  expect(divide(250, 10)).toBe(25);
 });
